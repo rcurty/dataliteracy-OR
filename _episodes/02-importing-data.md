@@ -62,15 +62,3 @@ To open an existing project in OpenRefine you can click `Open Project` from the 
 >- Consistency: the data should have the data format as expected and be cross reference-able with the same results.
 >For this sample dataset, we will observe many issues that should be addressed and reconciled before the dataset can be considered apt for reuse. Before we get to specific examples and ways to mitigate the issues found, take a look at the columns and identify 2-3 issues that compromise the reuse of the dataset as it is. 
 {: .datamoment}
-
->## What kinds of data files can I import?
->There are several options for getting your data set into OpenRefine. You can upload or import files in a variety of formats including:
->
->* TSV (tab-separated values)
->* CSV (comma-separated values)
->* TXT
->* Excel
->* JSON (javascript object notation)
->* XML (extensible markup language)
->* Google Spreadsheet
-{: .callout}
