@@ -51,13 +51,10 @@ To open an existing project in OpenRefine you can click `Open Project` from the 
 * Do you have access to JSON or XML data? If so the first stage of the import process will prompt you to select a 'record path' - that is the parts of the file that will form the data rows in the OpenRefine project.
 
 >## Data Moment - Quality Assessment
-> When working with a dataset, it is critical to evaluate whether its attributes meet the quality standards required for the project/task. This includes 
->checking for missing data and inspecting erros in data input, verifying if the data is in the desired unit of analysis and if the sample size is enough 
->to support their intended use. We typically suggest you inspect the data having five criteria in mind:
->- Accuracy: for whatever data is described, it needs to be accurate.
->- Relevancy: the data should meet the requirements for the intended use.
->- Completeness: the data should not have missing values or miss data records.
->- Timeliness: the data should be up to date.
->- Consistency: the data should have the data format as expected and be cross reference-able with the same results.
-> For this sample dataset, we will observe many issues that should be addressed and reconciled before the dataset can be considered apt for reuse. Before we get to specific examples and ways to mitigate the issues found, take a look at the columns and identify 2-3 issues that compromise the reuse of the dataset as it is. 
+> When considering working with a dataset, it is critical to evaluate whether its attributes meet the quality standards required for the project/task at hand. This includes checking for missing data and inspecting erros in data input, verifying if the data is in the desired unit of analysis and if the sample size is enough to support their intended use. We typically suggest you inspect the data having these criteria in mind:
+>*1) Accuracy:* for whatever data is described, it needs to be accurate.
+>*2) Relevancy:* the data should meet the requirements for the intended use.
+>*3) Completeness:* the data should be as complete as possible and missing values should be explicitly noted.
+>*4) Consistency:* all values should be recorded following the defined rules for the specifc variables.
+> For this sample dataset, we will observe many issues that should be addressed and reconciled before the dataset can be considered apt for reuse. Afterall this workshop was designed to introduce skills to resolve inconsistencies in messy datasets and make them more reusable. Can you think of any examples that have prevented you from moving forward with a dataset because these criterai werem't met?
 {: .datamoment}
