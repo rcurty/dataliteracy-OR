@@ -50,7 +50,7 @@ To open an existing project in OpenRefine you can click `Open Project` from the 
 * Look at the other options on the Import screen - try changing some of these options and see how that changes the Preview and how the data appears after import.
 * Do you have access to JSON or XML data? If so the first stage of the import process will prompt you to select a 'record path' - that is the parts of the file that will form the data rows in the OpenRefine project.
 
-> ## DataMoment
+> ## Datamoment
 >Quality Assessment:
 > When working with a dataset, it is critical to evaluate whether its attributes meet the quality standards required for the project/task. This includes 
 > checking for missing data and inspecting erros in data input, verifying if the data is in the desired unit of analysis and if the sample size is enough 
