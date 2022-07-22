@@ -23,7 +23,7 @@ $color-objectives:  #daee84 !default;
 $color-prereq:      #9cd6dc !default;
 $color-solution:    #ded4b9 !default;
 $color-testimonial: #fc8dc1 !default;
-$color-datamoment:  #3c8901 !default;
+$color-datamoment:  #71dbb5 !default;
 
 //----------------------------------------
 // Specialized code blocks.
@@ -122,8 +122,7 @@ $codeblock-padding: 5px !default;
 .prereq{ @include bkSetup($color-prereq, "\e124"); }
 .solution{ @include bkSetup($color-solution, "\e105"); }
 .testimonial{ @include bkSetup($color-testimonial, "\e143"); }
-.datamoment{ @include bkSetup($color-testimonial, "\1F4AC"); }
-
+.datamoment{ @include bkSetup($color-datamoment, "\e111"); }
 .callout h3,
 .challenge h3,
 .checklist h3,
@@ -147,7 +146,7 @@ font-size: 18px;
 .prereq       { background-color: #9cd6dc20; }
 .solution     { background-color: #ded4b94d; }
 .testimonial  { background-color: #fc8dc120; }
-.datamoment  { background-color: #3c8901; }
+.datamoment   {background-color:  #71dbb520; }
 
 blockquote p {
     margin: 5px;
