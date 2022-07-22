@@ -57,5 +57,5 @@ To open an existing project in OpenRefine you can click `Open Project` from the 
 >2. Relevancy: the data should meet the requirements for the intended use.
 >3. Completeness: the data should be as complete as possible and missing values should be explicitly noted.
 >4. Consistency: all values should be recorded following the defined rules for the specifc variables.
->For this sample dataset, we will observe many issues that should be addressed and reconciled before the dataset can be considered apt for reuse. Afterall this workshop was designed to introduce skills to resolve inconsistencies in messy datasets and make them more reusable. Can you think of any examples that have prevented you from moving forward with a dataset because these criterai werem't met?
+>For this sample dataset, we will observe many issues that should be addressed and reconciled before the dataset can be considered apt for reuse. Afterall, this workshop was designed to introduce skills to resolve inconsistencies in messy datasets and make them more reusable. Can you think of any examples that have prevented you from moving forward with a dataset because these criterai werem't met?
 {: .datamoment}
