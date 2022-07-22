@@ -51,8 +51,7 @@ To open an existing project in OpenRefine you can click `Open Project` from the 
 * Do you have access to JSON or XML data? If so the first stage of the import process will prompt you to select a 'record path' - that is the parts of the file that will form the data rows in the OpenRefine project.
 
 > ## *Data Moment*
->
-> **Quality Assessment**
+>**Quality Assessment**
 > 
 > When working with a dataset, it is critical to evaluate whether its attributes meet the quality standards required for the project/task. This includes 
 > checking for missing data and inspecting erros in data input, verifying if the data is in the desired unit of analysis and if the sample size is enough 
@@ -63,6 +62,4 @@ To open an existing project in OpenRefine you can click `Open Project` from the 
 > - Timeliness: the data should be up to date.
 > - Consistency: the data should have the data format as expected and be cross reference-able with the same results.
 > For this sample dataset, we will observe many issues that should be addressed and reconciled before the dataset can be considered apt for reuse. Before we get to specific examples and ways to mitigate the issues found, take a look at the columns and identify 2-3 issues that compromise the reuse of the dataset as it is. 
- 
-> {: .source}
-{: .datamoment}
+> {: .datamoment}
